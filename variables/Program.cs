@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace variables
+namespace Variables
 {
     internal class Program
     {

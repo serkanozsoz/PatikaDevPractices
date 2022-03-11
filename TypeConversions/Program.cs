@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace type_conversions
+namespace TypeConversions
 {
     internal class Program
     {

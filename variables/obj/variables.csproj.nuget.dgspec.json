@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\PatikaDevPractices\\variables\\variables.csproj": {}
+    "C:\\Users\\HP\\PatikaDevPractices\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\PatikaDevPractices\\variables\\variables.csproj": {
+    "C:\\Users\\HP\\PatikaDevPractices\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\PatikaDevPractices\\variables\\variables.csproj",
-        "projectName": "variables",
-        "projectPath": "C:\\Users\\HP\\PatikaDevPractices\\variables\\variables.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\PatikaDevPractices\\Variables\\Variables.csproj",
+        "projectName": "Variables",
+        "projectPath": "C:\\Users\\HP\\PatikaDevPractices\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\PatikaDevPractices\\variables\\obj\\",
+        "outputPath": "C:\\Users\\HP\\PatikaDevPractices\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

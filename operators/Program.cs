@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace operators
+namespace Operators
 {
     internal class Program
     {
