@@ -73,6 +73,7 @@ namespace TypeConversions
 
             double1 = Double.Parse(metin2);
             Console.WriteLine("double1: " + double1);
+            
         }
     }
 }
