@@ -1,5 +1,5 @@
 ﻿using System;
- 
+  
 namespace ExceptionHandling // Note: actual namespace depends on the project name.
 {
     internal class Program
