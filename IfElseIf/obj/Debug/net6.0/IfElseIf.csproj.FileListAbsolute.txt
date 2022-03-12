@@ -1,0 +1,15 @@
+C:\Users\HP\PatikaDevPractices\IfElseIf\bin\Debug\net6.0\IfElseIf.exe
+C:\Users\HP\PatikaDevPractices\IfElseIf\bin\Debug\net6.0\IfElseIf.deps.json
+C:\Users\HP\PatikaDevPractices\IfElseIf\bin\Debug\net6.0\IfElseIf.runtimeconfig.json
+C:\Users\HP\PatikaDevPractices\IfElseIf\bin\Debug\net6.0\IfElseIf.dll
+C:\Users\HP\PatikaDevPractices\IfElseIf\bin\Debug\net6.0\IfElseIf.pdb
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.csproj.AssemblyReference.cache
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.AssemblyInfoInputs.cache
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.AssemblyInfo.cs
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.dll
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\refint\IfElseIf.dll
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.pdb
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\IfElseIf.genruntimeconfig.cache
+C:\Users\HP\PatikaDevPractices\IfElseIf\obj\Debug\net6.0\ref\IfElseIf.dll
