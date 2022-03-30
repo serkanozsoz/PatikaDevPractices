@@ -10,35 +10,36 @@ namespace MethodOverloading
 
 
             bool sonuc = int.TryParse(sayi, out int outSayi);
-            if(sonuc)
+            if (sonuc)
             {
                 System.Console.WriteLine("Başarılı");
                 System.Console.WriteLine(outSayi);
             }
-            else {
+            else
+            {
                 System.Console.WriteLine("Başarısız!");
             }
             Metotlar instance = new Metotlar();
-            instance.Topla(4,5, out int toplamSonucu);
+            instance.Topla(4, 5, out int toplamSonucu);
             Console.WriteLine(toplamSonucu);
 
             //Metod Aşırı Yükleme - Overloading
 
-            int ifade= 999;
+            int ifade = 999;
             instance.EkranaYazdir(Convert.ToString(ifade));
             instance.EkranaYazdir(ifade);
-            instance.EkranaYazdir("Zikriye","Ürkmez");
+            instance.EkranaYazdir("Zikriye", "Ürkmez");
 
             //Metot Imzası
             //metotAdı + parametre sayisi + parametre
-            
+
         }
 
         class Metotlar
         {
             public void Topla(int a, int b, out int toplam)
             {
-                toplam = a+b;
+                toplam = a + b;
 
             }
 
