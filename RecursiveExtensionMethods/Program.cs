@@ -6,7 +6,7 @@ namespace RecursiveExtensionMethods
     {
         static void Main(string[] args)
         {
-            //Reküfsif Metotlar - Öz Yinelemeli
+            //Recursive Metotlar - Öz Yinelemeli
             int result = 1;
             for (int i = 1; i < 5; i++)
             {
@@ -18,7 +18,7 @@ namespace RecursiveExtensionMethods
             Console.WriteLine(instance.Expo(3, 4));
 
             //Extension Metotlar
-            string ifade = "Fatih Hacıoğlu";
+            string ifade = "Serkan Ozsoz";
             bool sonuc = ifade.CheckSpaces();
             Console.WriteLine(sonuc);
             if (sonuc)
