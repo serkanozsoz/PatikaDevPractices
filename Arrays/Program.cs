@@ -24,13 +24,13 @@ namespace Arrays
             //Döngülerle Dizi Kullanımı
             //Klavyeden girilen n tane sayının ortalamasını hesaplayan program.
             Console.Write("Lütfen dizinin eleman sayısını giriniz: ");
-            int diziUzunlugu = int.Parse(Console.ReadLine());
+            int diziUzunlugu = Convert.ToInt32(Console.ReadLine());
             int[] sayiDizisi = new int[diziUzunlugu];
 
             for (int i = 0; i < diziUzunlugu; i++)
             {
                 Console.Write("Lütfen {0}. sayıyı giriniz : ", i + 1);
-                sayiDizisi[i] = int.Parse(Console.ReadLine());
+                sayiDizisi[i] = Convert.ToInt32(Console.ReadLine());
             }
 
             int toplam = 0;
