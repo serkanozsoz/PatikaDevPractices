@@ -13,7 +13,7 @@ namespace CollectionsGenericList // Note: actual namespace depends on the projec
 
             List<int> sayiListesi = new List<int>();
 
-            sayiListesi.Add(23);
+            sayiListesi.Add(23); 
             sayiListesi.Add(10);
             sayiListesi.Add(4);
             sayiListesi.Add(5);
