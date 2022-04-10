@@ -8,7 +8,7 @@ namespace ForLoopBreakContinue
         {
             // Ekrandan girilen sayıya kadar olan tek sayılarını ekrana yazdır.
             Console.Write("Lütfen bir sayı giriniz: ");
-            int sayac = int.Parse(Console.ReadLine());
+            int sayac = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i <= sayac; i++)
             {
                 if (i % 2 == 1)
