@@ -12,7 +12,7 @@ namespace WhileForeach
             Console.WriteLine("Lütfen bir sayi giriniz!");
             int toplam = 0;
             int sayac = 1;
-            int sayi = int.Parse(Console.ReadLine());
+            int sayi = Convert.ToInt32(Console.ReadLine());
             while (sayac <= sayi)
             {
                 toplam += sayac;
