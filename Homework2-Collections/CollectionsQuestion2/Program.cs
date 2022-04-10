@@ -6,6 +6,8 @@ namespace CollectionsQuestion2
     {
         static void Main(string[] args)
         {
+            //klavyeden girilen 20 adet sayının en küçük 3 değeri ve en büyük 3 değerini al
+            //her iki grubunda ortalamasını ver ortalama toplamlarını yazdır!
             int[] numbers = new int[20];
             int[] arrMax = new int[3];
             int[] arrMin = new int[3];

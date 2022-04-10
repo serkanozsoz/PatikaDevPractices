@@ -8,6 +8,11 @@ namespace CollectionsQuestion1
     {
         static void Main(string[] args)
         {
+            //Klavyeden Girilen 20 adet pozitif sayı al.
+            //asal olan ve olmayan olarak ayrı ayrı 2 listeye at.
+            //negatif ve numeric olamayan girişleri engelle.
+            //Her bir dizininin elemanlarını büyükten küçüğe ekrana listele
+            //her iki dizininde eleman sayısı ve ortalamasını ekrana yazdır.
             ArrayList primes = new ArrayList();
 
             ArrayList notPrimes = new ArrayList();
@@ -18,7 +23,7 @@ namespace CollectionsQuestion1
             {
                 try
                 {
-                    Console.WriteLine("Please enter {0}. positive numbers : ", i+1);
+                    Console.WriteLine("Please enter {0}. positive numbers : ", i + 1);
                     int number = Convert.ToInt32(Console.ReadLine());
                     if (number <= 0)
                     {
@@ -26,7 +31,7 @@ namespace CollectionsQuestion1
                         // Console.WriteLine("Number is not available.Please enter a positive number!");
                         i--;
                     }
-                    else if(!m.IsPrime(number) || number==1)
+                    else if (!m.IsPrime(number) || number == 1)
                     {
                         notPrimes.Add(number);
                     }
@@ -37,7 +42,7 @@ namespace CollectionsQuestion1
                 }
                 catch (Exception ex)
                 {
-                    
+
                     Console.WriteLine(ex.Message.ToString());
                     i--;
                 }
@@ -52,7 +57,7 @@ namespace CollectionsQuestion1
             }
             Console.WriteLine("**** notPrime Numbers ****");
 
-            foreach(int item in notPrimes)
+            foreach (int item in notPrimes)
             {
                 Console.WriteLine(item);
             }
